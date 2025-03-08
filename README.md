@@ -27,6 +27,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+[![Live Demo](https://clever-cat-6d2a65.netlify.app/)](https://clever-cat-6d2a65.netlify.app/)
+
+Click the link above to visit the live website.
+
+
 Application yet to be completed ⏳
 
 ## License
