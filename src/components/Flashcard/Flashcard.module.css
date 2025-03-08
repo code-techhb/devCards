@@ -1,0 +1,20 @@
+.card {
+  width: 50rem;
+  background-color: var(--white);
+  color: var(--text-dark-color);
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border-radius: 15px;
+  box-shadow: 10px 8px 5px rgba(123, 130, 1, 0.301);
+}
+
+.card h2 {
+  font-size: 1.7rem;
+  text-align: center;
+  color: var(--background-color);
+}
+
+.card p {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
