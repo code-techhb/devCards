@@ -1,11 +1,19 @@
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   --line-height: 1.5;
-  --white: rgba(255, 255, 255, 0.87);
+  --white: #f0f0f0;
   --background-color: #242424;
+  --card-background: #2a2a2a;
+  --gray-444: #444444;
+  --gray-555: #555555;
   --primary: #e6c767;
   --secondary: #fbf3b9;
   --text-dark-color: #3a3b3c;
+
+  /* topic specific colors */
+  --javascript-color: #f7df1e;
+  --react-color: #61dafb;
+  --dsa-color: #e4b1f0;
 }
 
 html {
