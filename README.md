@@ -1,4 +1,4 @@
-# Web Development Project 3 - _Name of App Here_
+# Web Development Project 3 - _DevCards_
 
 Submitted by: **Houlaymatou B.**
 
