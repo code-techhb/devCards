@@ -1,51 +1,30 @@
-# Web Development Project 2 - _Name of App Here_
+# Web Development Project 3 - _Name of App Here_
 
 Submitted by: **Houlaymatou B.**
 
-Flashcard app to test users knowledge on Javascript, React and DSA.
+This web app: **DevCards**
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [✔️] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [✔️] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [✔️] **A list of card pairs is created**
-- [✔️] **Clicking on the card shows the corresponding component of the information pair**
-- [✔️] **Clicking the next button displays a random new card**
+- [✅ ] **The user can enter their guess in a box before seeing the flipside of the card**
+- [ ✅] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [ ✅] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [ ✅] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [❌] Cards contains images in addition to or in place of text
-- [❌] Cards have different visual styles such as color based on their category -[❌] _visual style implemented_
-
-The following **additional** features are implemented:
-
-- [❌ ] List anything else that you added to improve the site's functionality!
+- [ ✅] A shuffle button is used to randomize the order of the cards
+- [ ✅] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [ ✅] A counter displays the user's current and longest streak of correct responses
+- [ ❌] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 ## Video Walkthrough
 
-[![Live Demo](https://clever-cat-6d2a65.netlify.app/)](https://clever-cat-6d2a65.netlify.app/)
+Here's a walkthrough of implemented user stories:
 
-Click the link above to visit the live website.
-
-
-Application yet to be completed ⏳
-
-## License
-
-    Copyright 2025 Houlaymatou B.
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+<img src='https://imgur.com/6lSAZaQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with Imgur
