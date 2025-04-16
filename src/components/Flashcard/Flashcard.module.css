@@ -448,11 +448,11 @@
   }
 
   .card h2 {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
   }
 
   .card p {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
   }
 
   .navButton {
@@ -505,7 +505,7 @@
 
   .card p,
   .answer {
-    font-size: 0.85rem;
+    font-size: 1rem;
     line-height: 1.2;
   }
 
@@ -516,6 +516,7 @@
   }
 
   .streakCounter {
+    margin-top: 3rem;
     padding: 0.4rem;
   }
 

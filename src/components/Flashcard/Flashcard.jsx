@@ -2,14 +2,10 @@ import { useState } from "react";
 import styles from "./Flashcard.module.css";
 
 const Flashcard = ({ questions, subject, onReturn }) => {
-  // state management
   const [currentIndex, setCurrentIndex] = useState(() => {
     return Math.floor(Math.random() * questions.length);
   });
-
   const [showAnswer, setShowAnswer] = useState(false);
-
-  // New state for user input and feedback
   const [userAnswer, setUserAnswer] = useState("");
   const [feedback, setFeedback] = useState(null);
   const [hasChecked, setHasChecked] = useState(false);
